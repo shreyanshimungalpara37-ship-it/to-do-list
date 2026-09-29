@@ -1,0 +1,5 @@
+.badge{padding:2px 10px;border-radius:12px;color:#fff;font-size:12px;font-weight:600;margin-right:4px}
+.High{background:#d64545}.Medium{background:#e8a317}.Low{background:#2e9e6b}
+.Completed{background:#6c757d}.Overdue{background:#8e24aa}
+.card{background:#f4f7fb;border-left:5px solid #2f5fd0;padding:12px 16px;border-radius:8px}
+h1{color:#1f3c88}
